@@ -10,4 +10,4 @@ Console.WriteLine("What is your favorite color?");
 
 
 // Question 3
-// ...
+Console.WriteLine("What is the airspeed velocity of an unladen swallow?")
