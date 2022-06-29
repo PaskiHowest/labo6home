@@ -2,7 +2,7 @@
 
 
 // Question 1
-// ...
+Console.WriteLine("What's your name?");
 
 
 // Question 2
