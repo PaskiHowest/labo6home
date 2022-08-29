@@ -103,13 +103,13 @@ Console.WriteLine("What is your favourite colour?");
 
 
 // Question 3
-Console.WriteLine("What is the airspeed veloctiy of an unladen swallow?")
+Console.WriteLine("What is the airspeed velocity of an unladen swallow?")
 ```
 
 Zoals je ziet, werd op deze branch de tweede vraag *"What is your favourite colour?"* toegevoegd, zoals de naam van de branch ook aangeeft.
-Echter werd per vergissing ook al de derde vraag *"What is the airspeed veloctiy of an unladen swallow?"* toegevoegd.
+Echter werd per vergissing ook al de derde vraag *"What is the airspeed velocity of an unladen swallow?"* toegevoegd.
 
-- [ ] Zoek uit (via Git Bash of op GitHub) in welke commit de derde vraag *"What is the airspeed veloctiy of an unladen swallow?"* werd toegevoegd. Noteer de **commit hash**.
+- [ ] Zoek uit (via Git Bash of op GitHub) in welke commit de derde vraag *"What is the airspeed velocity of an unladen swallow?"* werd toegevoegd. Noteer de **commit hash**.
 - [ ] Keer terug naar de `dev` branch.
 - [ ] Maak vanaf `dev` een nieuwe branch `feature/ask-swallow-airspeed` en ga meteen ook naar deze nieuwe branch.
 - [ ] Gebruik het gepaste git commando om de commit die je hierboven identificeerde over te zetten op de branch `feature/ask-swallow-airspeed`.
@@ -152,7 +152,7 @@ Tijd om onze applicatie te releasen!
 ...
 
 // Question 3
-Console.WriteLine("What is the airspeed veloctiy of an unladen swallow?")
+Console.WriteLine("What is the airspeed velocity of an unladen swallow?")
 ```
 
 ### Deel 6: hotfix
