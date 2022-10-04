@@ -173,7 +173,7 @@ Console.WriteLine("What is the airspeed veloctiy of an unladen swallow?");
 - [ ] Synchroniseer `hotfix/compile-error` met de remote.
 
 - [ ] Ga nu lokaal terug naar de `master` branch.
-- [ ] Merge `hotfix/compiler-error` in `master`.
+- [ ] Merge `hotfix/compile-error` in `master`.
 - [ ] Synchroniseer `master` met de remote.
 
 - [ ] Wacht tot de GitHub action weer klaar is en verifieer dat de build nu terug slaagt.
