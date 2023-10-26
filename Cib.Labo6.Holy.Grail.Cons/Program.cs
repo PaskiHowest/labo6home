@@ -6,7 +6,7 @@ Console.WriteLine("What is your name?");
 
 
 // Question 2
-// ...
+Console.WriteLine("What is your favourite colour?");
 
 
 // Question 3
